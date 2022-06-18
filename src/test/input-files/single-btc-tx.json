@@ -1,0 +1,16 @@
+{
+  "type": "bitcoin",
+  "testnet": true,
+  "to": "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB",
+  "value": "10000",
+  "fee": "1000",
+  "inputUTXO": [
+    {
+      "hash": "46ad20fb4db5c86cc5e25e2302c9acfde35943f6b12169bd2e7a455df45642b7",
+      "index": 1,
+      "segwit": true,
+      "witnessScriptPubkey": "001458fc1ee963216c3e1c726b123b682cb4dd87da75",
+      "witnessValue": "74600"
+    }
+  ]
+}

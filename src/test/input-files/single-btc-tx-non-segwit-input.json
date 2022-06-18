@@ -1,0 +1,16 @@
+{
+  "type": "bitcoin",
+  "testnet": true,
+  "to": "mv4rnyY3Su5gjcDNzbMLKBQkBicCtHUtFB",
+  "value": "80000",
+  "fee": "5000",
+  "inputUTXO": [
+    {
+      "hash": "e9c2999639957b6f82a2613cef71b5c53ca24d7c9dc94125259beea403061246",
+      "index": 0,
+      "segwit": false,
+      "nonWitnessRawTxData": "0200000001f075235ea9cea4d180d00d40881ba4edd364f8912ff8afca75179a9e65ef56ca010000006a47304402200209327e616a9155a4cb40fd67de47793f052e0fbbf6aa0c071f3bb6df5b01b3022046019c7e7c950d5cc7a96531d67ec92ce529119450abfa23af89ae098eaabb1101210397ba2a1908c7f34fa4020199928deb972d4016e4fd001e535e68ce4a83d26b21feffffff02f0490200000000001976a9145a453650d889ecab9ed216e1bde6926dbef57e6c88acdc9b1900000000001976a914d955a830db6cf68827796b53860a09137057288888ac67cb2200",
+      "nonWitnessValue": "150000"
+    }
+  ]
+}
